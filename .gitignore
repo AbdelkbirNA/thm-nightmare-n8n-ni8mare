@@ -1,0 +1,23 @@
+# Never redistribute challenge binaries / room artifacts (copyright + ToS)
+*.7z
+*.zip
+*.rar
+*.tar.gz
+*.dll
+*.pck
+*.so
+*.exe
+*.x86_64
+*.bin
+*.img
+*.pcap
+*.ccache
+*.hash
+*.raw
+original/
+working/
+extracted/
+captures/
+loot/
+__pycache__/
+*.pyc
